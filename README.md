@@ -1,6 +1,6 @@
 # Class Activity 9
 
-## Deadline: September 24 by 3pm
+## Deadline: September 28 by 3pm
 
 For the ninth activity you are invited to participated in a guided completion of two Buffer Overflow challenges on TryHackMe platform.
 
