@@ -6,7 +6,7 @@ For the ninth activity you are invited to participated in a guided completion of
 
 ## Assignment
 
--  Complete [Activity 9]() directly on TryHackMe.
+-  Complete [Activity 9](https://tryhackme.com/jr/alleghenybof2ex) directly on TryHackMe.
 
 ## Submission
 
